@@ -10,4 +10,8 @@ Clone and cd into the folder and them run the following command to compile and i
 stack install
 ```
 
+And install the crontab
 
+```bash
+crontab gputab
+```
