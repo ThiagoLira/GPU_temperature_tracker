@@ -1,6 +1,7 @@
 ## GPU Temperature Tracker
 
 This is a simple haskell program to track a GPU temperature and store it on a SQLite table.
+Explanation on this blog post: http://thiagolira.blot.im/gpu-tracker
 
 ## Usage
 
